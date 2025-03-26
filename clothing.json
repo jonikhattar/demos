@@ -1,0 +1,138 @@
+[
+{
+  "color": [
+    "white",
+    "clay"
+  ],
+  "description": "Discover a unique blend of comfort and style with our distressed white t-shirt. Featuring a trendy hole detail, this tee offers a casual, effortlessly cool vibe. Pair it with your favorite jeans for a laid-back look.",
+  "hierarchical_categories": {
+    "lvl0": "apparel",
+    "lvl1": "apparel > tops"
+  },
+  "images": [
+    "https://storage.googleapis.com/landingpage-al/91438020_0.jpg"
+  ],
+  "price": "35.00",
+  "product_type": "tops",
+  "showcase_image": "https://storage.googleapis.com/landingpage-al/91438020_0.jpg",
+  "tags": [
+    "distressed",
+    "casual",
+    "multicolor"
+  ],
+  "title": "Distressed White T-Shirt",
+  "units_sold": 498,
+  "objectID": "2314047000"
+
+},
+{
+  "color": [
+    "green",
+    "gray"
+  ],
+  "description": "Discover comfort with our Green and Gray Striped Tee, designed with a flattering round neckline and short sleeves. The soft, lightweight fabric ensures a relaxed fit, making it an ideal choice for casual outings or lounging at home.",
+  "hierarchical_categories": {
+    "lvl0": "apparel",
+    "lvl1": "apparel > tops"
+  },
+  "images": [
+    "https://storage.googleapis.com/landingpage-al/91409158_0.jpg"
+  ],
+  "price": "35.00",
+  "product_type": "tops",
+  "showcase_image": "https://storage.googleapis.com/landingpage-al/91409158_0.jpg",
+  "sleeve_length": "",
+  "tags": [
+    "multicolor",
+    "striped",
+    "casual",
+    "comfortable"
+  ],
+  "taxable": true,
+  "title": "Green and Gray Striped Tee",
+  "units_sold": 432,
+  "weight": "0.79",
+  "objectID": "2313857000"
+},
+{
+  "color": [
+    "green"
+  ],
+  "description": "Discover comfort with our green loose fit t-shirt. Designed with a rounded neckline and short raglan sleeves, this piece is crafted from soft, stretchy material, making it a versatile addition to your casual wardrobe.",
+  "hierarchical_categories": {
+    "lvl0": "apparel",
+    "lvl1": "apparel > tops"
+  },
+  "images": [
+    "https://storage.googleapis.com/landingpage-al/91408687_0.jpg"
+  ],
+  "price": "25.00",
+  "product_type": "tops",
+  "showcase_image": "https://storage.googleapis.com/landingpage-al/91408687_0.jpg",
+  "sleeve_length": "",
+  "tags": [
+    "soft",
+    "comfortable",
+    "casual",
+    "raglan"
+  ],
+  "taxable": true,
+  "title": "Green Loose Fit T-Shirt",
+  "units_sold": 842,
+  "weight": "0.20",
+  "objectID": "2313851000"
+},
+{
+  "color": [
+    "black"
+  ],
+  "description": "Discover the perfect blend of comfort and style with our classic black long-sleeve t-shirt. Crafted from soft, stretchy material, it features a round neckline and provides a relaxed fit that comfortably drapes over your body. Ideal for pairing with jeans or leggings, this versatile piece is a staple for any casual wardrobe.",
+  "hierarchical_categories": {
+    "lvl0": "apparel",
+    "lvl1": "apparel > tops"
+  },
+  "images": [
+    "https://storage.googleapis.com/landingpage-al/91429640_0.jpg"
+  ],
+  "price": "35.00",
+  "product_type": "tops",
+  "showcase_image": "https://storage.googleapis.com/landingpage-al/91429640_0.jpg",
+  "tags": [
+    "solid",
+    "comfortable",
+    "classic"
+  ],
+  "taxable": true,
+  "title": "Classic Black Long-Sleeve T-Shirt",
+  "units_sold": 850,
+  "weight": "0.68",
+  "objectID": "2313996000"
+},
+{
+  "color": [
+    "white"
+  ],
+  "description": "Discover comfort with our white t-shirt featuring a unique distressed hem. Crafted from soft material, this oversized shirt offers a relaxed fit for effortless styling, making it a versatile addition to your wardrobe.",
+  "hierarchical_categories": {
+    "lvl0": "apparel",
+    "lvl1": "apparel > tops"
+  },
+  "images": [
+    "https://storage.googleapis.com/landingpage-al/91429471_0.jpg"
+  ],
+  "price": "35.00",
+  "product_type": "tops",
+  "showcase_image": "https://storage.googleapis.com/landingpage-al/91429471_0.jpg",
+  "tags": [
+    "oversized",
+    "casual",
+    "soft",
+    "distressed"
+  ],
+  "taxable": true,
+  "title": "Distressed Hem White T-Shirt",
+  "units_sold": 784,
+  "weight": "0.35",
+  "objectID": "2313993000"
+}
+]
